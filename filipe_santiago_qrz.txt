@@ -1,1 +1,2 @@
 Primeiro commit no projeto STAMPS!
+Texto difente para simular conflitos.
